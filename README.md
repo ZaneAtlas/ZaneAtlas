@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am cuurently working on learning automation testing. <br>I have proven experience in web application development and also have developed projects using different tools.
+I am currently working on learning automation testing. <br>I have proven experience in web application development and also have developed projects using different tools.
 
 
 # 💻 Tech Stack:
